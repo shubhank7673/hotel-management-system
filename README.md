@@ -1,2 +1,9 @@
 # hotel-management-system
-Yet to come :)
+## Requirements
+```
+python-3
+
+```
+
+
+
