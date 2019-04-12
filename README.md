@@ -1,5 +1,5 @@
 # hotel-management-system
-**Hotel management system is an application that can be used by any hotel to :-**
+**Hotel management system is an Tkinter based(Python module) application that can be used by any hotel to :-**
  
 -Reserve a room
 
