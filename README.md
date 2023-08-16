@@ -17,7 +17,7 @@
 
 -To find the payment information by providing the payment id
 
-A filter is also provided which gives you the option to fill fields(amenities) according to the guest's choice and find the available rooms with the choosen amenities sorted in order from lowest price to highest price
+A filter is also provided which gives you the option to fill fields(amenities) according to the guest's choice and find the available rooms with the chosen amenities sorted in order from lowest price to highest price
 
 ## Requirements
 ```
